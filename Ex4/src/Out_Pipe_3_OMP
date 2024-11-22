@@ -1,0 +1,11 @@
+OpenMP versao 201511 com 3 threads
+produto  1 fabricado apos  3 segundos com 3 threads
+produto  2 fabricado apos  4 segundos com 3 threads
+produto  3 fabricado apos  5 segundos com 3 threads
+produto  4 fabricado apos  6 segundos com 3 threads
+produto  5 fabricado apos  7 segundos com 3 threads
+produto  6 fabricado apos  8 segundos com 3 threads
+produto  7 fabricado apos  9 segundos com 3 threads
+produto  8 fabricado apos 10 segundos com 3 threads
+produto  9 fabricado apos 11 segundos com 3 threads
+produto 10 fabricado apos 12 segundos com 3 threads

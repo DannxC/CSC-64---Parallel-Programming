@@ -1,0 +1,3 @@
+Execucao OpenMP versao 201107 com 4 threads
+achou 50847534 primos em [2:1000000000]; quantidade correta
+Tempos: init=0.248164, comp=9.086110, fim=0.551930

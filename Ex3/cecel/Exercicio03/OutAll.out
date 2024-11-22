@@ -1,0 +1,7 @@
+**RESULTADO CORRETO** numProc=1; tam=2048; tempos: init=0.007982, comp=63.542239, fim=0.000853, tot=63.551074 
+**RESULTADO CORRETO** numProc=2; tam=2048; tempos: init=0.004535, comp=31.782325, fim=0.000401, tot=31.787261 
+**RESULTADO CORRETO** numProc=4; tam=2048; tempos: init=0.002724, comp=16.558697, fim=0.000320, tot=16.561741 
+**RESULTADO CORRETO** numProc=8; tam=2048; tempos: init=0.001964, comp=8.943686, fim=0.000172, tot=8.945822 
+**RESULTADO CORRETO** numProc=12; tam=2048; tempos: init=0.001342, comp=5.953844, fim=0.000136, tot=5.955322 
+**RESULTADO CORRETO** numProc=24; tam=2048; tempos: init=0.000715, comp=3.146343, fim=0.000182, tot=3.147240 
+**RESULTADO CORRETO** numProc=48; tam=2048; tempos: init=0.000376, comp=2.884785, fim=0.016903, tot=2.902064 
